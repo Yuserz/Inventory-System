@@ -2,7 +2,7 @@
   "name": "mernboilerplate",
   "version": "1.0.2",
   "engines": {
-    "node": "16.18.1",
+    "node": "16.16.0",
     "yarn": "1.x"
   },
   "description": "This is a boilerplate repo for creating new mern stack apps",
@@ -26,7 +26,8 @@
     "mocha": "^9.0.2",
     "mongoose": "^5.13.3",
     "react": "^18.2.0",
-    "react-router-dom": "^6.4.3"
+    "react-router-dom": "^6.4.3",
+    "yarn": "^1.22.19"
   },
   "devDependencies": {
     "concurrently": "^6.2.0",

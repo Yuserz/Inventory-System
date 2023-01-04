@@ -2,6 +2,8 @@
     <img src="./client/public/MERN.png" alt="mongo" height="100" />
 </p>
 
+npm install --global yarn
+
 
 * Sample CRUD API
 * Create-react-app boilerplate
@@ -12,6 +14,7 @@
 ## Available Scripts
 
 For APIs to work in development please add a **.env** file in root of the project and add your **MONGODB_URI** in that file.
+ex: MONGODB_URI = mongodb://localhost:27017
 
 ### `yarn start`
 
